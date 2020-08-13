@@ -5,6 +5,10 @@
 ## Proffy Mobile
 Está é a versão mobile do projeto
 
+<h1 align="center">
+    <img alt="Proffy Mobile" title="Proffy Mobile" src="https://github.com/Drarkors/Proffy-Mobile/blob/master/Proffy%20Mobile.png?raw=true" />
+</h1>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
