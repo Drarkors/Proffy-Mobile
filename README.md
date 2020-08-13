@@ -20,3 +20,7 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 ## 🛠 Work In Progress
 Esta versão do Proffy ainda não foi finalizada e ainda serão feitas alterações nas funcionalidades, baseadas em desafios e nas ideias do desenvolvedor.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
