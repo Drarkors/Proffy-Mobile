@@ -2,12 +2,10 @@
     <img alt="Proffy" title="Proffy" src="https://github.com/rocketseat-education/nlw-02-omnistack/raw/master/.github/logo.svg" />
 </h1>
 
+<img alt="Proffy Mobile" title="Proffy Mobile" src="https://github.com/Drarkors/Proffy-Mobile/blob/master/Proffy%20Mobile.png?raw=true" />
+
 ## Proffy Mobile
 Está é a versão mobile do projeto
-
-<h1 align="center">
-    <img alt="Proffy Mobile" title="Proffy Mobile" src="https://github.com/Drarkors/Proffy-Mobile/blob/master/Proffy%20Mobile.png?raw=true" />
-</h1>
 
 ## 🚀 Tecnologias
 
